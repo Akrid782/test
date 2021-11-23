@@ -6,5 +6,5 @@ void main(List<String> args) {
   print('hi3');
   print('hi3');
 
-  print('hi5');
+  print('hi6');
 }
